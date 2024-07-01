@@ -1,0 +1,5 @@
+#  ignore virtual environment
+morse/
+
+# ignore cache directories
+__pycache__/
